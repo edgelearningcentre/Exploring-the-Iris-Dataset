@@ -81,3 +81,6 @@ pip install pandas seaborn matplotlib numpy
 
 ## License
 This project is for educational purposes.
+
+## Solution 
+https://roadmap.sh/projects/exploring-iris-dataset
